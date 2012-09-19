@@ -1,0 +1,31 @@
+/* 
+*
+* Coder @ Hemant Kumar 
+*
+*/
+
+/* This class used to put Banner  in the center of the screen */
+.home_banner_img 
+{
+display: block;
+margin: 0 auto;
+text-align: center;
+padding-top: 10px;
+}
+
+.devcloud-img
+{
+	width:45px;
+	height:45px;
+	position: relative;
+	top:11px;
+	
+	}
+	
+	.branding
+	{
+	
+	background-image: url("../img/cloudbackground.png");
+	background-repeat: repeat-x;
+	background-position: bottom;
+	}
